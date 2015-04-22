@@ -9,7 +9,7 @@ APS 123 Lecture notes
 Imagine an island archipelago, perhaps like the Caribbean...
 
 * * *
-![Alt text](images/central_america_satellite_map.pdf "Caribbean")
+![Alt text](images/central_america_satellite_map.jpg "Caribbean")
 
 Can we make any predictions about where we would expect to find the most species?
 
